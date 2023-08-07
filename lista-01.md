@@ -16,17 +16,17 @@ Funções Nativas:
 
 Coerção e Tipos de Dados:
 
-11- Declare uma variável com valor "5" (string) e outra variável com valor 2 (número). Multiplique as duas variáveis e explique o resultado.
-12- Converta a string "123" em um número inteiro e armazene-o em uma variável.
-13- Escreva um programa que adicione um número e uma string. 
-14- Explique o resultado e discuta a coerção que ocorre.
-15- Declare uma variável com o valor null e outra variável com o valor undefined. Verifique se são iguais em valor e tipo.
-16- Crie um programa que determine se uma variável é do tipo função usando o operador typeof.
+* 11- Declare uma variável com valor "5" (string) e outra variável com valor 2 (número). Multiplique as duas variáveis e explique o resultado.
+* 12- Converta a string "123" em um número inteiro e armazene-o em uma variável.
+* 13- Escreva um programa que adicione um número e uma string. 
+* 14- Explique o resultado e discuta a coerção que ocorre.
+* 15- Declare uma variável com o valor null e outra variável com o valor undefined. Verifique se são iguais em valor e tipo.
+* 16- Crie um programa que determine se uma variável é do tipo função usando o operador typeof.
 
 Operadores Matemáticos e Lógicos:
 
-18- Escreva um programa que calcule o resultado da expressão: (10 + 5) * 3 / 20.
-19- Crie uma função que verifique se um número é positivo e ímpar ao mesmo tempo.
-20- Implemente um programa que determine se um ano fornecido pelo usuário é bissexto ou não, considerando as regras: (a) Anos divisíveis por 4 são bissextos; (b) Anos divisíveis por 100 não são bissextos, a menos que também sejam divisíveis por 400.
-21- Escreva uma função que determine se uma pessoa tem permissão para entrar em um clube: idade mínima de 18 anos e não estar na lista de membros banidos (use operadores lógicos).
-22- Crie um programa que simule um sistema de login. Peça ao usuário um nome de usuário e uma senha, e verifique se correspondem aos valores esperados.
+* 18- Escreva um programa que calcule o resultado da expressão: (10 + 5) * 3 / 20.
+* 19- Crie uma função que verifique se um número é positivo e ímpar ao mesmo tempo.
+* 20- Implemente um programa que determine se um ano fornecido pelo usuário é bissexto ou não, considerando as regras: (a) Anos divisíveis por 4 são bissextos; (b) Anos divisíveis por 100 não são bissextos, a menos que também sejam divisíveis por 400.
+* 21- Escreva uma função que determine se uma pessoa tem permissão para entrar em um clube: idade mínima de 18 anos e não estar na lista de membros banidos (use operadores lógicos).
+* 22- Crie um programa que simule um sistema de login. Peça ao usuário um nome de usuário e uma senha, e verifique se correspondem aos valores esperados.
